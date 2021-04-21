@@ -1,0 +1,3 @@
+1m = 100 cm
+1 cm = 10mm
+1 hour = 60min
